@@ -12,7 +12,7 @@ public class ConnectionProvider {
 			
 			if(con==null)
 			{
-				con=DriverManager.getConnection("jdbc:mysql://localhost:3306/eclipsefirstdb","root","SRIVASTAVa22#");
+				con=DriverManager.getConnection("jdbc:mysql://localhost:3306/techblog","root","SRIVASTAVa22#");
 			}
 			
 			
